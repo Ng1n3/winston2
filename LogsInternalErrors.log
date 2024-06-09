@@ -1,0 +1,24 @@
+2024-06-09T15:21:02.656Z [31merror[39m uncaughtException: THis is a custom error
+Error: THis is a custom error
+    at C:\Users\X\Desktop\winston2\src\app.ts:52:9
+    at Layer.handle [as handle_request] (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\X\Desktop\winston2\node_modules\.pnpm\express-winston@4.2.0_winston@3.13.0\node_modules\express-winston\index.js:429:9
+    at Layer.handle [as handle_request] (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\layer.js:95:5)
+2024-06-09T15:34:09.557Z [31merror[39m uncaughtException: THis is a custom error
+Error: THis is a custom error
+    at C:\Users\X\Desktop\winston2\src\app.ts:44:9
+    at Layer.handle [as handle_request] (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\X\Desktop\winston2\node_modules\.pnpm\express-winston@4.2.0_winston@3.13.0\node_modules\express-winston\index.js:429:9
+    at Layer.handle [as handle_request] (C:\Users\X\Desktop\winston2\node_modules\.pnpm\express@4.19.2\node_modules\express\lib\router\layer.js:95:5)
