@@ -1,0 +1,7 @@
+GET http://localhost:6000/
+
+###
+GET http://localhost:6000/400
+
+###
+GET http://localhost:6000/500
